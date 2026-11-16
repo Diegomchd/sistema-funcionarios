@@ -53,8 +53,7 @@ O sistema permite cadastrar e gerenciar funcionários de diferentes modalidades 
 Clone o repositório:
 
 ```bash
-git clone URL_DO_REPOSITORIO
-```
+git clone https://github.com/Diegomchd/sistema-funcionarios.git```
 
 Entre na pasta do projeto:
 
